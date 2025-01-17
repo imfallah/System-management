@@ -1,4 +1,4 @@
-# sys-man
+# System Management
 
 A powerful system management tool designed to simplify and enhance your interaction with system resources. Whether you're a developer, system administrator, or power user, sys-man provides the tools you need to monitor, manage, and optimize your system efficiently.
 
