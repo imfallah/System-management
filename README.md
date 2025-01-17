@@ -1,10 +1,10 @@
-# System Management
+# System Management✨🐍
 
 A powerful system management tool designed to simplify and enhance your interaction with system resources. Whether you're a developer, system administrator, or power user, sys-man provides the tools you need to monitor, manage, and optimize your system efficiently.
 
 ---
 
-## Features
+## Features✨
 
 - **Real-Time Monitoring:** View real-time metrics for CPU, memory, disk usage, and network activity.
 - **Process Management:** Start, stop, and manage system processes effortlessly.
@@ -15,13 +15,13 @@ A powerful system management tool designed to simplify and enhance your interact
 
 ---
 
-## Installation
+## Installation🌱
 
-### Prerequisites
+### Prerequisites😊
 - Python 3.8 or higher
 - pip (Python package installer)
 
-### Steps
+### Steps🛑
 
 1. Clone the repository:
    ```bash
@@ -41,7 +41,7 @@ A powerful system management tool designed to simplify and enhance your interact
 
 ---
 
-## Usage
+## Usage🥇
 
 ### Launching the Application
 Run the following command in your terminal:
@@ -59,7 +59,7 @@ python main.py
 
 ---
 
-## Screenshots
+## Screenshots📸
 
 <img src="https://github.com/imfallah/sys-man/blob/main/public/img.png" height="200"><br><br>
 
@@ -69,7 +69,7 @@ python main.py
 
 ---
 
-## Contributing
+## Contributing🤗
 
 We welcome contributions from the community! To contribute:
 1. Fork the repository.
@@ -89,13 +89,13 @@ We welcome contributions from the community! To contribute:
 
 ---
 
-## License
+## License💌
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project as per the license terms.
 
 ---
 
-## Contact
+## Contact🕷
 
 For questions or support, please contact:
 - **Author:** Mohammad Fallahnejad
